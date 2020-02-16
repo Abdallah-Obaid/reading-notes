@@ -4,8 +4,8 @@
 **NAME** | **URL**
 ------------ | -------------
 Home | [Home](https://abdallah-obaid.github.io/reading-notes/).
- | 
- | 
+ Read 01 | Introductory HTML and JavaScript 
+ Read 02 | HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
 ### I'm living in Amman- Jordan.
 ### I'm a student at Lutc college.
