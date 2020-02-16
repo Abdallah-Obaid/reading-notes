@@ -9,8 +9,16 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 03     | [HTML Lists, CSS Boxes, JS Control Flow](https://abdallah-obaid.github.io/reading-notes/).
  Read 04     | [HTML Links, CSS Layout, JS Functions](https://abdallah-obaid.github.io/reading-notes/).
  Read 05     | [HTML Images; CSS Color & Text](https://abdallah-obaid.github.io/reading-notes/).
-
-
+ Read 06     | [JS Object Literals; The DOM](https://abdallah-obaid.github.io/reading-notes/).
+ Read 07     | [HTML Tables; JS Constructor Functions](https://abdallah-obaid.github.io/reading-notes/).
+ Read 08     | [More CSS Layout](https://abdallah-obaid.github.io/reading-notes/).
+ Read 09     | [Forms and Events](https://abdallah-obaid.github.io/reading-notes/).
+ Read 10     | [JS Debugging](https://abdallah-obaid.github.io/reading-notes/).
+ Read 11     | [Assorted Topics](https://abdallah-obaid.github.io/reading-notes/).
+ Read 12     | [Docs for the HTML <canvas> Element & Chart.js](https://abdallah-obaid.github.io/reading-notes/).
+ Read 13     | [Local Storage](https://abdallah-obaid.github.io/reading-notes/).
+ Read 14a     | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
+ Read 14b     | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
 
 ### I'm living in Amman- Jordan.
 ### I'm a student at Lutc college.
