@@ -22,22 +22,21 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
 
 # Html:-
 ----------------------------------
-----------------------------------
-----------------------------------
+
 * Html: made up of characters that live inside angled brackets — these are called HTML elements. Elements are usually made up of two tags: an opening tag and a closing tag.
 * Attributes: provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value,separated by an equals sign.
-* Anything written between the <body> tags will appear in the main browser window, highlighted in blue here.
-* The <head> contains informationa bout the page.
+* Anything written between the '<body>' tags will appear in the main browser window, highlighted in blue here.
+* The '<head>' contains informationa bout the page.
 * Anything written between the <title> tags will appear in the the browser window, highlighted in orange here.
 * **HTML pages are text documents.**
 * Global attributes, which are attributes that can be used on any element, including the class and id attributes.
 * To add comment <!-- comment goes here -->
-* block leve elements: Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
-> Examples of block elements are; <h1>, <p>, <ul>, and <li>.
+* block level elements: Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
+> Examples of block elements are; '<h1>, <p>, <ul>, and <li>'.
 * inline elements: Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
-> Examples of inline elements are: <a>, <b>, <em>, and <img>.
-* <div> element allows you to group a set of elements together in one block-level box.
-* <span> element acts like an inline equivalent of the <div> element. It is used to either:
+> Examples of inline elements are: '<a>, <b>, <em>, and <img>'.
+* '<div>' element allows you to group a set of elements together in one block-level box.
+* '<span>' element acts like an inline equivalent of the '<div>' element. It is used to either:
 1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text.
 2. Contain a number of inlineelements.
 * The site map aim to create a diagram of the pages that will be used to structure the site. it will show how those pages can be grouped.
