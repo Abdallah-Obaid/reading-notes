@@ -15,7 +15,7 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 09     | [Forms and Events](https://abdallah-obaid.github.io/reading-notes/).
  Read 10     | [JS Debugging](https://abdallah-obaid.github.io/reading-notes/).
  Read 11     | [Assorted Topics](https://abdallah-obaid.github.io/reading-notes/).
- Read 12     | [Docs for the HTML <canvas> Element & Chart.js](https://abdallah-obaid.github.io/reading-notes/).
+ Read 12     | [Docs for the HTML canvas Element & Chart.js](https://abdallah-obaid.github.io/reading-notes/).
  Read 13     | [Local Storage](https://abdallah-obaid.github.io/reading-notes/).
  Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
  Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
@@ -60,7 +60,7 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
 ----------------------------------
   > Html: CONTENT LAYER 
    > Css: PRESENTATION LAYER 
-    >Js : BEHAVIOR LAYER 
+    > Js: BEHAVIOR LAYER 
 
 
 ![Together](https://miro.medium.com/max/900/1*q99J7XLYVWgOt69E8IuXqw.gif)
