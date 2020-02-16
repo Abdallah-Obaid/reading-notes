@@ -15,10 +15,10 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 09     | [Forms and Events](https://abdallah-obaid.github.io/reading-notes/).
  Read 10     | [JS Debugging](https://abdallah-obaid.github.io/reading-notes/).
  Read 11     | [Assorted Topics](https://abdallah-obaid.github.io/reading-notes/).
- Read 12     | [Docs for the HTML <canvas> Element & Chart.js](https://abdallah-obaid.github.io/reading-notes/).
+ Read 12    | [Docs for the HTML <canvas> Element & Chart.js](https://abdallah-obaid.github.io/reading-notes/).
  Read 13     | [Local Storage](https://abdallah-obaid.github.io/reading-notes/).
- Read 14a     | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
- Read 14b     | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
+ Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
+ Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
 
 ### I'm living in Amman- Jordan.
 ### I'm a student at Lutc college.
