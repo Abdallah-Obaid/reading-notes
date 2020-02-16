@@ -4,7 +4,7 @@
 
 **NAME** | **URL**
 ------------ | -------------
-Home | [Home](https://abdallah-obaid.github.io/README/).
+Home | [Home](https://abdallah-obaid.github.io/reading-notes/).
  | 
  | 
 
