@@ -1,11 +1,16 @@
-# Code-201d3 ~ Reading-notes
+# Code-201  ~ Reading-notes
 > By Abdallah obaid
 
 **NAME** | **URL**
 ------------ | -------------
 Home | [Home](https://abdallah-obaid.github.io/reading-notes/).
- Read 01 | Introductory HTML and JavaScript 
- Read 02 | HTML Text, CSS Introduction, and Basic JavaScript Instructions
+ Read 01 | [Introductory HTML and JavaScript](https://abdallah-obaid.github.io/reading-notes/).
+ Read 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://abdallah-obaid.github.io/reading-notes/).
+ Read 03 | [HTML Lists, CSS Boxes, JS Control Flow](https://abdallah-obaid.github.io/reading-notes/).
+ Read 04 | [HTML Links, CSS Layout, JS Functions](https://abdallah-obaid.github.io/reading-notes/).
+ Read 05 | [HTML Images; CSS Color & Text](https://abdallah-obaid.github.io/reading-notes/).
+
+
 
 ### I'm living in Amman- Jordan.
 ### I'm a student at Lutc college.
