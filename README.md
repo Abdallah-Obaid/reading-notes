@@ -22,5 +22,5 @@ GitHub and git
 ## Contact me:- +9627775500XX
 
 
-![cat](https://as1.ftcdn.net/jpg/01/93/38/40/500_F_193384026_F34lj9rX9W4ixlVZBrTJmijK010Tdv0j.jpg)
+![star](https://media0.giphy.com/media/UVk5yzljef0kGiayL1/giphy.gif)
 
