@@ -15,7 +15,7 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 09     | [Forms and Events](https://abdallah-obaid.github.io/reading-notes/).
  Read 10     | [JS Debugging](https://abdallah-obaid.github.io/reading-notes/).
  Read 11     | [Assorted Topics](https://abdallah-obaid.github.io/reading-notes/).
- Read 12    | [Docs for the HTML <canvas> Element & Chart.js](https://abdallah-obaid.github.io/reading-notes/).
+ Read 12     | [Docs for the HTML <canvas> Element & Chart.js](https://abdallah-obaid.github.io/reading-notes/).
  Read 13     | [Local Storage](https://abdallah-obaid.github.io/reading-notes/).
  Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
  Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
@@ -43,6 +43,7 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
 ![Site map ex](https://online.visual-paradigm.com/repository/images/4eca449a-3fba-43f1-bc43-817dcdde3d23.png)
 
 # Js:-
+----------------------------------
 * A script is a series of instructions that a computer can follow to achieve a goal.
 * Flowchart: is a high-level view of tasks in a script after define a goal.
 * Vocabulary: The words that computers understand. 
@@ -54,10 +55,12 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
 * An event is the computer's way of sticking up its hand to say, "Hey, this just happened!.
 * The Methods typically represent how people (or other things) interact with an object in the real world.
 * 'WEB BROWSERS ARE PROGRAMS BUILT USING OBJECTS' 
+
 # HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER?!
+----------------------------------
   > Html: CONTENT LAYER 
    > Css: PRESENTATION LAYER 
     >Js : BEHAVIOR LAYER 
 
 
-![Site map ex](https://miro.medium.com/max/900/1*q99J7XLYVWgOt69E8IuXqw.gif)
+![Together](https://miro.medium.com/max/900/1*q99J7XLYVWgOt69E8IuXqw.gif)
