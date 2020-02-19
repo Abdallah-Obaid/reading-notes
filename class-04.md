@@ -37,9 +37,18 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
 ![layout](https://cdn-images-1.medium.com/max/800/1*A4AZXGxmMSPgmoMzdmh98A.gif)
 
  # Functions, Methods, and Objects:-
-* 
-![Switch]()
+* Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 
+* Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names. 
+IN 
+![Functions](https://miro.medium.com/max/1575/1*TwGMR64_zlwPhjAf00IgPA.gif)
  # “6 Reasons for Pair Programming”:-
-*
-![Switch]()
+* Greater efficiency
+* Engaged collaboration
+* Learning from fellow students
+* Social skills
+* Job interview readiness
+* Work environment readiness
+
+
+![Pair](https://giffiles.alphacoders.com/296/2968.gif)
 
