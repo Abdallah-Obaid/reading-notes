@@ -20,24 +20,26 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
  Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
 
-# Three different types of lists:-
+# links:-
 ----------------------------------
-* Ordered listsare lists where each item in the list is numbered.
-* Unordered lists are lists that begin with a bullet point (rather than characters that indicate order).
-* Definition lists  are made up of a set of terms along with the definitions for each of those terms `<d1><dt><dd>`.
-> We can also use nested lists:put list on a list.
+* Links are created using the  X <a> element. 
+* The <a> element uses the href attribute to indicate the page you are linking to.
+> Ex for links :  `<ul><li><a href="https://github.com/Abdallah-Obaid/About-Me">My-Githup</a></li> </ul>`
 
-![List](https://miro.medium.com/max/1600/0*SiX6Tcs_OyeeauLs.gif)
+![Link](https://cdn.biggerlawfirm.com/wp-content/uploads/2019/03/internal-linking-1078x516.jpg)
 
-# Boxes in Css:-
+# Layout in Css:-
 ----------------------------------
-* Css treats each HTML element as if it lives in its own box.
-* The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values: •hidden  •scroll
-* Border, Margin & Padding described in this img:-
-![Border](https://codeleacher.files.wordpress.com/2009/04/marginandpadding.gif)
+* CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
+* The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width).
 
- # Switch statement and if-else statements:-
-* When we use if-else statements, all the statements checked ecen if a match has been found `So it performs more slowly than switch`.
+* Pages can be fixed width or liquid (stretchy) layouts.
+![layout](https://cdn-images-1.medium.com/max/800/1*A4AZXGxmMSPgmoMzdmh98A.gif)
 
-![Switch](https://d3nmt5vlzunoa1.cloudfront.net/phpstorm/files/2016/05/if-to-switch-v3.gif)
+ # Functions, Methods, and Objects:-
+* 
+![Switch]()
+ # “6 Reasons for Pair Programming”:-
+*
+![Switch]()
 
