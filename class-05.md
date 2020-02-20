@@ -22,56 +22,47 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
 
 # Images:-
 ----------------------------------
-* Images should:-
+## Images should:-
  * Be relevant 
  * Convey information   
  * Convey the right mood 
  * Be instantly recognisable  
  * Fit the color palette
 
-* bHere are three examples of image placement that produce different results:-
+### There are three examples of image placement that produce different results:-
  1 Before a paragraphThe paragraph starts on a new line after the image. 
  2 Inside the start of a paragraph The first row of text aligns withthe bottom of the image.
  3 In the middle of paragraph The image is placed between the words of the paragraph that it appears in.
 
-* Vector images differ from bitmap images and are resolution-independent. Vector images are commonly created  in programs such as Adobe Illustrator.
-* JPGs, GIFs, and PNGs belong to a type of image format known as bitmap. They are made up of lots of miniature squares.
-* Animated GIFs show several frames of an image in sequence and therefore can be used to create simple animations.
-* Each extra frame of the image increases the size of the file, and can therefore add to the time it takes for an image to download (and web users do not like waiting a long time for images to download). 
-* To write under image we use `<figure>&<figcaption>`.
-* Photographs are best saved as JPEGs; illustrations or logos that use flat colors are better saved as GIFs.
+### Vector images differ from bitmap images and are resolution-independent. Vector images are commonly created  in programs such as Adobe Illustrator.
+### JPGs, GIFs, and PNGs belong to a type of image format known as bitmap. They are made up of lots of miniature squares.
+### Animated GIFs show several frames of an image in sequence and therefore can be used to create simple animations.
+### Each extra frame of the image increases the size of the file, and can therefore add to the time it takes for an image to download (and web users do not like waiting a long time for images to download). 
+### To write under image we use `<figure>&<figcaption>`.
+### Photographs are best saved as JPEGs; illustrations or logos that use flat colors are better saved as GIFs.
 
 ![Image](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
 
 
-# Layout in Css:-
-----------------------------------
-* CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
-* The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width).
-
-* Pages can be fixed width or liquid (stretchy) layouts.
-![layout](https://cdn-images-1.medium.com/max/800/1*A4AZXGxmMSPgmoMzdmh98A.gif)
-
  # Colors:-
  ----------------------------------
-*  You can specify any color in CSS in one of three ways: 
+###  You can specify any color in CSS in one of three ways: 
  * rgb values.
  * hex codes.
  * color names.
  
-* Every color on a computer screen is created by mixing amounts of red, green, and blue.
-* When picking foreground and background colors, it is important to ensure that there is enough contrast for the  text to be legible.
-* CSS3 introduces an entirely new and intuitive way to specify colors using hue, saturation, and lightness values.
+### Every color on a computer screen is created by mixing amounts of red, green, and blue.
+### When picking foreground and background colors, it is important to ensure that there is enough contrast for the  text to be legible.
+### CSS3 introduces an entirely new and intuitive way to specify colors using hue, saturation, and lightness values.
 ![Colors](https://media2.giphy.com/media/FE0WTM8BG754I/giphy.gif)
 
 
  # Text:-
  ----------------------------------
-* When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that
-user's computer.
-* There are properties to control the choice of font, size, weight, style, and spacing.
-* There is a limited choice of fonts that you can assume most people will have installed.
-* You can control the space between lines of text, individual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented.
+### When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer.
+### There are properties to control the choice of font, size, weight, style, and spacing.
+### There is a limited choice of fonts that you can assume most people will have installed.
+### You can control the space between lines of text, individual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented.
 
 
 ![Text](https://miro.medium.com/max/2400/1*nHbNeqLg7-ZC9J8NVrkXDg.gif)
