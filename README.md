@@ -6,10 +6,10 @@
 Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 01     | [Introductory HTML and JavaScript](https://abdallah-obaid.github.io/reading-notes/class-01).
  Read 02     | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://abdallah-obaid.github.io/reading-notes/class-02).
- Read 03     | [HTML Lists, CSS Boxes, JS Control Flow](https://abdallah-obaid.github.io/reading-notes/).
- Read 04     | [HTML Links, CSS Layout, JS Functions](https://abdallah-obaid.github.io/reading-notes/).
- Read 05     | [HTML Images; CSS Color & Text](https://abdallah-obaid.github.io/reading-notes/).
- Read 06     | [JS Object Literals; The DOM](https://abdallah-obaid.github.io/reading-notes/).
+ Read 03     | [HTML Lists, CSS Boxes, JS Control Flow](https://abdallah-obaid.github.io/reading-notes/class-03).
+ Read 04     | [HTML Links, CSS Layout, JS Functions](https://abdallah-obaid.github.io/reading-notes/class-04).
+ Read 05     | [HTML Images; CSS Color & Text](https://abdallah-obaid.github.io/reading-notes/class-05).
+ Read 06     | [JS Object Literals; The DOM](https://abdallah-obaid.github.io/reading-notes/class-06).
  Read 07     | [HTML Tables; JS Constructor Functions](https://abdallah-obaid.github.io/reading-notes/).
  Read 08     | [More CSS Layout](https://abdallah-obaid.github.io/reading-notes/).
  Read 09     | [Forms and Events](https://abdallah-obaid.github.io/reading-notes/).
