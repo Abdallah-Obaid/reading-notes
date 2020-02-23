@@ -1,4 +1,4 @@
-# Read 06 ~ JS Object Literals; The DOM
+# Read 07 ~ HTML Tables; JS Constructor Functions
 > By Abdallah obaid
 
 **NAME** | **URL**
