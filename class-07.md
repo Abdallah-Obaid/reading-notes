@@ -30,21 +30,17 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
 ![Problem Domain](https://lh3.googleusercontent.com/proxy/9gARUmd0AMvCeTfgFPuObJahDKyTgmhOEpz_CpZKRzooqAGpZKMX6HY9BhX_jwyIhEERYhCidTe-awiP1OY3ChpypQQXMAQSyVdXqMjteZA)
 
 
- # Objects-
- ----------------------------------
-###  Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names.  
+ # Tables:-
+  ----------------------------------
+###  The <table> element is used to create a table. The contents of the table are written out row by row. 
 
-### Programmers use a lot of name/value pairs: 
-   * HTML uses attribute names and values.
-   * CSS uses property names and values. 
-#### In JavaScript: 
-   * Variables have a name and you can assign them a value of a string, number, or Boolean. 
-   * Arrays have a name and a group of values. (Each item in an array is a name/value pair because it has an index number and a value.) 
-   * Named functions have a name and value that is a set of statements to run if the function is called. 
-   * Objects consist of a set of name/value pairs (but the names are referred to as keys). 
-### Literal notation is the easiest and most popular way to create opject.
+### You indicate the start of each row using the opening <tr> tag. (The tr stands for table row.)
 
-![Object](https://media.giphy.com/media/Z8eddvCbn6t6U/giphy.gif)
+### Each cell of a table is represented using a <td> element. (The td stands for table data.)
+  
+### The <th> element is used just like the  <td> element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.)
+### The rowspan attribute can be used on a <th> or <td> element to indicate how many rows a cell should span down the table.
+![tables](https://lh3.googleusercontent.com/proxy/J36aWKU7y1kurNyYDjRIlb0ILvdyoTbHCIsB_9E1rzcIowuvV_zKnudZGIS5_d8qk5GhiqNUWdLA10ceZ-EHS7bQh7UmPyZ3nalA5QPR5AWvTSH180D_YRCLovl9JCdsAsuCavXBtxswnlpspcOlWmbv3stIzIuuQTNMYwezN7yxnA)
 
 
  # The Document Object Model (DOM):-
