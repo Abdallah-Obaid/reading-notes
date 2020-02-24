@@ -27,7 +27,7 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
 ### It is very difficult to solve a problem before you know the question.  It’s like buzzing in on Jeopardy before you hear the clue and shouting out random questions.
 ### You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
 
-![Problem Domain](https://lh3.googleusercontent.com/proxy/9gARUmd0AMvCeTfgFPuObJahDKyTgmhOEpz_CpZKRzooqAGpZKMX6HY9BhX_jwyIhEERYhCidTe-awiP1OY3ChpypQQXMAQSyVdXqMjteZA)
+![Problem Domain](https://i.cmpnet.com/ddj/sdmagazine/images/sdm0101c/0101cf2.gif)
 
 
  # Tables:-
