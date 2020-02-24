@@ -43,14 +43,12 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
 ![tables](https://lh3.googleusercontent.com/proxy/J36aWKU7y1kurNyYDjRIlb0ILvdyoTbHCIsB_9E1rzcIowuvV_zKnudZGIS5_d8qk5GhiqNUWdLA10ceZ-EHS7bQh7UmPyZ3nalA5QPR5AWvTSH180D_YRCLovl9JCdsAsuCavXBtxswnlpspcOlWmbv3stIzIuuQTNMYwezN7yxnA)
 
 
- # The Document Object Model (DOM):-
+ # Functions, Methods, and Objects:-
  ----------------------------------
-### The Document Object Model (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window.
-### DOM trees have four types of nodes: document nodes, element nodes, attribute nodes and text nodes.
-### You can select element nodes by their id or clas attributes,by tag name, or using CSS selector syntax.
-### Whenever a DOM query can return more than one node, it will always return a nodelist.
-### In older browsers, implementation of the DOM is inconsistent(and is apopular reason for using jQuery).
+### Web browsers implement objects that represent both the browser window and document loaded into browser window.
+### Arrays and objects can be used to create complex data sets(and both can contain the other).
+### We can change the value of object properties after coling it.
 
 
-![DOM](https://2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com/files/2017/09/ezgif-2-01a1ded8c4.gif)
+![Objects](https://thumbs.gfycat.com/JadedUnsteadyFennecfox-small.gif)
 
