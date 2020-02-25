@@ -1,4 +1,4 @@
-# Read 03 ~ HTML Lists, CSS Boxes, JS Control Flow
+# Read 08 ~ More CSS Layout
 > By Abdallah obaid
 
 **NAME** | **URL**
@@ -20,25 +20,19 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
  Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
 
-
-# Three different types of lists:-
+# Layout in Css:-
 ----------------------------------
-* Ordered listsare lists where each item in the list is numbered.
-* Unordered lists are lists that begin with a bullet point (rather than characters that indicate order).
-* Definition lists  are made up of a set of terms along with the definitions for each of those terms `<d1><dt><dd>`.
-> We can also use nested lists:put list on a list.
+* CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
+ CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
+* The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width).
 
-![List](https://miro.medium.com/max/1600/0*SiX6Tcs_OyeeauLs.gif)
+* Pages can be fixed width or liquid (stretchy) layouts.
+* Resolution refers to the number of dots a screen shows per inch. Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.
+* Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.
+* Fixed width layout designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in pixels.
+* Many designers use a grid structure to help them position items on a page, and the same is true for web designers.
+* CSS Frameworks provide rules for common tasks.
 
-# Boxes in Css:-
-----------------------------------
-* Css treats each HTML element as if it lives in its own box.
-* The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values: •hidden  •scroll
-* Border, Margin & Padding described in this img:-
-![Border](https://codeleacher.files.wordpress.com/2009/04/marginandpadding.gif)
 
- # Switch statement and if-else statements:-
-* When we use if-else statements, all the statements checked ecen if a match has been found `So it performs more slowly than switch`.
-
-![Switch](https://d3nmt5vlzunoa1.cloudfront.net/phpstorm/files/2016/05/if-to-switch-v3.gif)
+![layout](https://cdn-images-1.medium.com/max/800/1*A4AZXGxmMSPgmoMzdmh98A.gif)
 
