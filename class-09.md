@@ -1,4 +1,4 @@
-# Read 03 ~ HTML Lists, CSS Boxes, JS Control Flow
+# Read 09 ~ Forms and Events
 > By Abdallah obaid
 
 **NAME** | **URL**
@@ -20,25 +20,25 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
  Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
 
-
-# Three different types of lists:-
+# Forms and Events:-
 ----------------------------------
-* Ordered listsare lists where each item in the list is numbered.
-* Unordered lists are lists that begin with a bullet point (rather than characters that indicate order).
-* Definition lists  are made up of a set of terms along with the definitions for each of those terms `<d1><dt><dd>`.
-> We can also use nested lists:put list on a list.
+* We can collect info from client by forms,by putting it inside form.
+* Each info in form had a name and value.
+* each form control is givin a name,and the text the user types in or the values of thre options they select are sent to the server.
+* Html have a new form that is easyer to be used
 
-![List](https://miro.medium.com/max/1600/0*SiX6Tcs_OyeeauLs.gif)
 
-# Boxes in Css:-
+![Form](https://assets.wordpress.envato-static.com/uploads/2014/09/subtly-animated-forms-thumb.gif)
+
+
+# Lists:-
 ----------------------------------
-* Css treats each HTML element as if it lives in its own box.
-* The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values: •hidden  •scroll
-* Border, Margin & Padding described in this img:-
-![Border](https://codeleacher.files.wordpress.com/2009/04/marginandpadding.gif)
+* There are several elements that are specifically used to control the appearance of lists, tables, and forms.
+* List-style-type and list-style image properties, can be used to change the list style.
 
- # Switch statement and if-else statements:-
-* When we use if-else statements, all the statements checked ecen if a match has been found `So it performs more slowly than switch`.
+* Table cells can have different borders and spacing in  X different browsers, but there are properties you can use to control them and make them more consistent.
+* Forms are easier to use if the form controls are  X vertically aligned using CSS.
+* Forms benefit from styles that make them feel more  X interactive.
 
-![Switch](https://d3nmt5vlzunoa1.cloudfront.net/phpstorm/files/2016/05/if-to-switch-v3.gif)
 
+![Event](https://miro.medium.com/max/1600/1*iHhUyO4DliDwa6x_cO5E3A.gif)

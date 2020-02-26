@@ -12,7 +12,7 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 06     | [JS Object Literals; The DOM](https://abdallah-obaid.github.io/reading-notes/class-06).
  Read 07     | [HTML Tables; JS Constructor Functions](https://abdallah-obaid.github.io/reading-notes/class-07).
  Read 08     | [More CSS Layout](https://abdallah-obaid.github.io/reading-notes/class-08).
- Read 09     | [Forms and Events](https://abdallah-obaid.github.io/reading-notes/).
+ Read 09     | [Forms and Events](https://abdallah-obaid.github.io/reading-notes/class-09).
  Read 10     | [JS Debugging](https://abdallah-obaid.github.io/reading-notes/).
  Read 11     | [Assorted Topics](https://abdallah-obaid.github.io/reading-notes/).
  Read 12     | [Docs for the HTML canvas Element & Chart.js](https://abdallah-obaid.github.io/reading-notes/).
