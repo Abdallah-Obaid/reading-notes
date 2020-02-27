@@ -1,4 +1,4 @@
-# Read 04 ~ HTML Links, CSS Layout, JS Functions
+# Read 10 ~ JS Debugging
 > By Abdallah obaid
 
 **NAME** | **URL**
@@ -20,35 +20,29 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
  Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
 
-# links:-
+# Error handling and debugging:-
 ----------------------------------
-* Links are created using the  X <a> element. 
-* The <a> element uses the href attribute to indicate the page you are linking to.
-> Ex for links :  `<ul><li><a href="https://github.com/Abdallah-Obaid/About-Me">My-Githup</a></li> </ul>`
+* Debugging is the process of findinf errors. It involves a process of deduction.
+* There 'is Developer Tools' to debug your work.
+* If a JavaScript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code. 
+* The console helps narrow down the area in which the error is located, so you can try to find the exact error.
 
-![Link](https://cdn.biggerlawfirm.com/wp-content/uploads/2019/03/internal-linking-1078x516.jpg)
+* Html have a new form that is easyer to be used
+JavaScript has 7 different types of errors. each creates its own error object, which can tell you its line number and gives a description of the error.
+* If you know that you may get an error, you can handle it gracefully using the try, catch, finally statement.Use them to give your users helpfu; feedback.
 
-# Layout in Css:-
+
+![Form](https://assets.wordpress.envato-static.com/uploads/2014/09/subtly-animated-forms-thumb.gif)
+
+
+# Lists:-
 ----------------------------------
-* CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
-* The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width).
+* There are several elements that are specifically used to control the appearance of lists, tables, and forms.
+* List-style-type and list-style image properties, can be used to change the list style.
 
-* Pages can be fixed width or liquid (stretchy) layouts.
-![layout](https://cdn-images-1.medium.com/max/800/1*A4AZXGxmMSPgmoMzdmh98A.gif)
-
- # Functions, Methods, and Objects:-
-* Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 
-* Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names. 
-IN 
-![Functions](https://miro.medium.com/max/1575/1*TwGMR64_zlwPhjAf00IgPA.gif)
- # “6 Reasons for Pair Programming”:-
-* Greater efficiency
-* Engaged collaboration
-* Learning from fellow students
-* Social skills
-* Job interview readiness
-* Work environment readiness
+* Table cells can have different borders and spacing in  X different browsers, but there are properties you can use to control them and make them more consistent.
+* Forms are easier to use if the form controls are  X vertically aligned using CSS.
+* Forms benefit from styles that make them feel more  X interactive.
 
 
-![Pair](https://giffiles.alphacoders.com/296/2968.gif)
-
+![Event](https://miro.medium.com/max/1600/1*iHhUyO4DliDwa6x_cO5E3A.gif)
