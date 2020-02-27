@@ -32,17 +32,4 @@ JavaScript has 7 different types of errors. each creates its own error object, w
 * If you know that you may get an error, you can handle it gracefully using the try, catch, finally statement.Use them to give your users helpfu; feedback.
 
 
-![Form](https://assets.wordpress.envato-static.com/uploads/2014/09/subtly-animated-forms-thumb.gif)
-
-
-# Lists:-
-----------------------------------
-* There are several elements that are specifically used to control the appearance of lists, tables, and forms.
-* List-style-type and list-style image properties, can be used to change the list style.
-
-* Table cells can have different borders and spacing in  X different browsers, but there are properties you can use to control them and make them more consistent.
-* Forms are easier to use if the form controls are  X vertically aligned using CSS.
-* Forms benefit from styles that make them feel more  X interactive.
-
-
-![Event](https://miro.medium.com/max/1600/1*iHhUyO4DliDwa6x_cO5E3A.gif)
+![Debugging](https://d3nmt5vlzunoa1.cloudfront.net/webstorm/files/2017/01/react-live.gif)
