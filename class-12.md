@@ -1,4 +1,4 @@
-# Read 11 ~ Assorted Topics
+# Read 12 ~ Docs for the HTML canvas Element & Chart.js
 > By Abdallah obaid
 
 **NAME** | **URL**
@@ -20,34 +20,31 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
  Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
 
-# Images:-
+# Canvas:-
 ----------------------------------
-* Images can be aligned both horizontally and vertically using CSS.
-* Background images can be repeated or can appear just once, across the background of the box.
-* You can create image rollover effects by moving the background position of an image.
-* To reduce the number of images your browser has to load, you can create image sprites.
+* At first sight a `<canvas>` looks like the `<img>` element, with the only clear difference being that it doesn't have the src and alt attributes.
+* The `<canvas>` element has only two attributes, width and height.
+* The canvas will initially be 300 pixels wide and 150 pixels high. 
+* The `<canvas>` element can be styled just like any normal image (margin, border, background…).
+* Before we can start drawing, we need to talk about the canvas grid or coordinate space.
+* There are three functions that draw rectangles on the canvas:
+>fillRect(x, y, width, height)
+ >Draws a filled rectangle.
+>strokeRect(x, y, width, height)
+ >Draws a rectangular outline.
+>clearRect(x, y, width, height)
+ >Clears the specified rectangular area, making it fully transparent.
+* If we want to apply colors to a shape, there are two important properties we can use: fillStyle and strokeStyle.
+>fillStyle = color
+ >Sets the style used when filling shapes.
+>strokeStyle = color
+ >Sets the style for shapes' outlines.
+* The canvas rendering context provides two methods to render text:
+>fillText(text, x, y [, maxWidth])
+ >Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
+>strokeText(text, x, y [, maxWidth])
+ >Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
+![Canvas](https://miro.medium.com/max/960/1*IGKCnfK8dHAWo2z-z9A4pA.gif)
 
-![Image](https://clipartart.com/images/animated-clipart-bird-gif-8.gif)
-
-# Practical information:-
-----------------------------------
-* SEO is a huge topic and several books have been written on the subject.The following pages will help you understand the key concepts so you can improve your website's visibility on search engines.
-* In every page of your website there are seven key places where keywords (the words people might search on to find your site) :-
->1: Page Title
->2: URL / Web Address
->3: Headings
->4: Text
->5: Link Text
->6: Image Alt Text
->7: Page Descriptions
-
-* Search engine optimization helps visitors find your sites when using search engines.
-* Analytics tools such as Google Analytics allow you to see how many people visit your site, how they find it, 
-and what they do when they get there.
-* To put your site on the web, you will need to obtain a domain name and web hosting.
-* FTP programs allow you to transfer files from your local computer to your web server.
-* Many companies provide platforms for blogging, emailn ewsletters, e-commerce and other popular website
-tools (to save you writing them from scratch).
-![Search](https://thumbs.gfycat.com/EasyDeliciousKitten-small.gif)
 
 
