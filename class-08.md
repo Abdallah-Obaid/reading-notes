@@ -16,10 +16,9 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 10     | [JS Debugging](https://abdallah-obaid.github.io/reading-notes/class-10).
  Read 11     | [Assorted Topics](https://abdallah-obaid.github.io/reading-notes/class-11).
  Read 12     | [Docs for the HTML canvas Element & Chart.js](https://abdallah-obaid.github.io/reading-notes/class-12).
- Read 13     | [Local Storage](https://abdallah-obaid.github.io/reading-notes/).
+ Read 13     | [Local Storage](https://abdallah-obaid.github.io/reading-notes/class-13).
  Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/).
  Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/).
- 
 # Layout in Css:-
 ----------------------------------
 * CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
