@@ -1,4 +1,4 @@
-# Read 13 ~ Local Storage
+# Read 15 ~ What Google Learned About Teams
 > By Abdallah obaid
 
 **NAME** | **URL**
@@ -20,17 +20,14 @@ Home    | [Home](https://abdallah-obaid.github.io/reading-notes/).
  Read 14a    | [CSS Transforms, Transitions, and Animations](https://abdallah-obaid.github.io/reading-notes/class-14).
  Read 14b    | [What Google Learned About Teams](https://abdallah-obaid.github.io/reading-notes/class-15).
 
-# Local Storage:-
+# :-
 ----------------------------------
-* What we really want is **a lot of storage space** on the client that **persists beyond a page refresh** and **isn’t transmitted to the server**.
-* Local storage start working correctly from Html5.
-* HTML5 storage it’s a way for web pages to store named key/value pairs locally, within the client web browser.
-* Unlike cookies, Local storage data is never transmitted to the remote web server (unless you go out of your way to send it manually).
+* Some time you will not feel that you are a success in your job, that's not because you are less than others, but because it's not the place you deserve to be in.
+* Commerce becomes increasingly global and complex, the bulk of modern work is more and more team-based.
+* No matter how researchers arranged the data, though, it was almost impossible to find patterns — or any evidence that the composition of a team made any difference. 
 
-* The latest version of pretty much every browser supports HTML5 Storage… **even Internet Explorer!**
-*  The storage event is fired on the window object whenever setItem(), removeItem(), or clear() is called and actually changes something.
-* Web SQL Database (formerly known as “WebDB”) provides a thin wrapper around a SQL database.
-![Local-Storage](https://reactjsexample.com/content/images/2019/08/react-use-localstorage.gif)
+
+![team]()
 
 
 
